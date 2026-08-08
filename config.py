@@ -8,3 +8,4 @@ WHISPER_PREFIX = "(psst) "
 ECHO_REPEAT = 2
 WAVE_SUFFIX = " o/"
 CHEER_SUFFIX = " \\o/"
+SIGH_SUFFIX = " ..."
