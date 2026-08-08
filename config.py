@@ -5,3 +5,4 @@ GREETING_TEMPLATE = "Hello, {name}!"
 FAREWELL_TEMPLATE = "Goodbye, {name}!"
 SHOUT_SUFFIX = "!!!"
 WHISPER_PREFIX = "(psst) "
+ECHO_REPEAT = 2
