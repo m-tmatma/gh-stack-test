@@ -2,3 +2,4 @@ This is a second dummy file to test gh stack add with multiple layers.
 dummy
 dummy
 
+protected branch deletion test
